@@ -3,6 +3,9 @@ body{
     border: 100px;
     border-color: black;
 }
+img.b1{
+    height: 900px;
+}
 .Port{
     padding-left: 100px;
     font-size: 96px;
@@ -27,6 +30,7 @@ body{
     margin: 50px;
     padding: 1rem 2rem;
     border-left: 5px solid #000;
+    font-size: 48px;
 }
 h1{
     position: absolute;
@@ -55,7 +59,7 @@ li{
     border: solid 3px #aafadf;
     border-radius: 10px;
     padding-left: 0;
-    background-color: #a4a4a4;    
+    background-color: #eaf7f1;    
 }
 ol {
     margin-bottom: 2em;
@@ -70,6 +74,7 @@ img{
     margin-left: 30px;
     padding: 1rem 2rem;
     border-left: 5px solid #000;
+    font-size: 48px;
 }
 
 .skill{
@@ -143,6 +148,7 @@ li:hover {
     margin: 100px;
     padding: 1rem 2rem;
     border-left: 5px solid #000;
+    font-size: 48px;
     
 }
 
